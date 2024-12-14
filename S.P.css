@@ -1,0 +1,148 @@
+
+a {
+    color:#333;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    margin: 6px;
+}
+a:link {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+.G_S_Options {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin-right: 9px;
+    margin-top: 13px;
+
+}
+.G_Logo {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 88px;
+}
+.Bar {
+    display: flex;
+    position: relative;
+    min-height: 44px;
+    background: #fff;
+    border: 1px solid #dfe1e5;
+    border-radius: 24px;
+    margin: 0 auto;
+    width: 555px;
+    max-width: 555px;
+    margin-top: 33px;
+}
+.G_BT {
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    color: #3c4043;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    margin-top: 33px;
+}
+.G_BT:hover {
+    border: 1px solid #8a8a8a;
+}
+.G_B_S {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.A_S {
+    color: #d93025;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: first baseline;
+    margin-top: 48px;
+    margin-left: 33px;
+    margin-bottom: 24px;
+
+}
+.B_L {
+    border-bottom: 1px solid #ebebeb;
+}
+.P_E {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: baseline;
+    margin-left: 36px;
+    margin-top: 44px;
+    color: #333;
+}
+.theform {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 36px;
+}
+.L_F {
+    display: flex;
+    flex-direction: row;
+}
+.A_B {
+    height: 24px;
+    margin-top: 6px;
+    width: 369px;
+    border: 1px solid #dfdddde3;
+    border-radius: 5px;
+    
+}
+.A_T {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    width: 161px;
+    color: #333;
+}
+.F_B {
+    display: flex;
+    background-color: #4d90fe;
+    border: 1px solid #3079ed;
+    border-radius: 6px;
+    color: #fff;
+    height: 33px;
+}
+.F_B:hover {
+    background-color: #2d7cfa;
+}
+.B_C {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    width: 535px;
+    height: 77px;
+}
+.G_A_B {
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 13px;
+    margin-left: 11px;
+}
+.G_L_A {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.G_S_O_A {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    position: absolute;
+    top: 13px;
+    right: 17px;
+}
